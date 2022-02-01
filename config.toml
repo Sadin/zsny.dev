@@ -1,0 +1,24 @@
+baseURL = "https://zsny.dev/"
+languageCode = "en-us"
+title = "Zach Snyder"
+theme = "lekh"
+
+[params]
+Name = "Zach Snyder"
+About = "Developer, Linux User, Open Source Advocate."
+Email = "sadin@fedoraproject.org"
+Resume = "" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/Sadin"
+
+[[params.profiles]]
+name = "Twitter"
+url = "https://twitter.com/sadinzs"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/snyderzachary/"
